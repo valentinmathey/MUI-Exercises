@@ -1,5 +1,5 @@
 # 🎨 Material UI Exercises
-¡Bienvenido al repositorio de ejercicios con Material UI! En este proyecto, encontrarás dos proyectos prácticos utilizando la librería Material UI para React. Cada uno de ellos te permitirá familiarizarte con diferentes aspectos de Material UI y cómo aplicarlos en tus propios proyectos.
+¡Bienvenido al repositorio de ejercicios con Material UI! En este proyecto, encontrarás dos proyectos prácticos utilizando la librería Material UI para React. Cada proyecto está integrado con VITE, una herramienta de desarrollo ultrarrápida para aplicaciones web modernas. Cada uno de ellos te permitirá familiarizarte con diferentes aspectos de Material UI y cómo aplicarlos en tus propios proyectos.
 
 ## 🌦️ Weather App
 El primer proyecto es una Weather App que te permite averiguar el clima actual de tu ciudad. Utiliza la API de WeatherAPI.com para obtener datos en tiempo real y Material UI para diseñar una interfaz atractiva y funcional.

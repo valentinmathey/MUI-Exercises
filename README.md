@@ -1,5 +1,5 @@
 # 🎨 Material UI Exercises
-¡Bienvenido al repositorio de ejercicios con Material UI! En este proyecto, encontrarás dos proyectos prácticos utilizando la librería Material UI para React. Cada proyecto está integrado con VITE, una herramienta de desarrollo ultrarrápida para aplicaciones web modernas. Cada uno de ellos te permitirá familiarizarte con diferentes aspectos de Material UI y cómo aplicarlos en tus propios proyectos.
+¡Bienvenido al repositorio de ejercicios con Material UI! En este proyecto, encontrarás dos proyectos prácticos utilizando la librería Material UI para React. Cada proyecto está integrado con VITE ⚡️, una herramienta de desarrollo ultrarrápida para aplicaciones web modernas. Cada uno de ellos te permitirá familiarizarte con diferentes aspectos de Material UI y cómo aplicarlos en tus propios proyectos.
 
 ## 🌦️ Weather App
 El primer proyecto es una Weather App que te permite averiguar el clima actual de tu ciudad. Utiliza la API de WeatherAPI.com para obtener datos en tiempo real y Material UI para diseñar una interfaz atractiva y funcional.
@@ -10,6 +10,23 @@ El primer proyecto es una Weather App que te permite averiguar el clima actual d
 El segundo proyecto es un ejercicio donde se utiliza el efecto Skeleton de Material UI junto con la API de Rick and Morty para cargar datos de personajes y episodios de la popular serie de televisión. El efecto Skeleton proporciona una animación de carga suave mientras se obtienen los datos de la API.
 
 ![Vite + React - Google Chrome 2023-07-27 19-06-56](https://github.com/valentinmathey/MUI-Exercises/assets/108497495/8a045ae3-cee1-431b-a818-f682f4552046)
+
+## 🛠️ Instalación
+Para utilizar este proyecto, sigue los siguientes pasos de instalación:
+
+1 - Clona este repositorio en tu máquina local:
+git clone https://github.com/valentinmathey/MUI-Exercises.git
+
+2 - Ingresa a la carpeta del proyecto:
+cd MUI-Exercises/AppMeteorologica o /Skeleton
+
+3 - Instala las dependencias del proyecto con npm:
+npm install
+
+4 - Inicia la aplicación con VITE:
+npm run dev
+
+¡Listo! Ahora deberías poder ver la aplicación en tu navegador web en la dirección http://localhost:3000/.
 
 # 💻 Tech Stack:
 <div align="center">
